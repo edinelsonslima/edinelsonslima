@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/edinelsonslima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: edinelsonlima86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edinelson-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://edinelsonslima.github.io/edinelson-lima/" target="_blank"><img src="https://img.shields.io/website?label=%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%A7%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A2&style=for-the-badge&url=https%3A%2F%2Fedinelsonslima.github.io%2Fedinelson-lima%2F" target="_blank"></a>
+  <a href="https://edinelsonslima.github.io/edinelson-lima/" target="_blank"><img src="https://img.shields.io/badge/-website-%5B?style=for-the-badge&logo=opel&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/edinelsonslima/edinelsonslima/blob/output/github-contribution-grid-snake.svg)
  
