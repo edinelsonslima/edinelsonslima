@@ -1,6 +1,6 @@
 ## Olá Bem-vindo ao meu GitHub
  <div>
- <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="800px" height="250px" />
+ <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" height="250px" />
   <a href="https://github.com/edinelsonslima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edinelsonslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinelsonslima&layout=compact&langs_count=16&theme=dracula"/>
