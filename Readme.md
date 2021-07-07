@@ -11,7 +11,7 @@
   <img align="center" alt="Edinelson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edinelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Edinelson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" src="https://avatars.githubusercontent.com/u/49925501?v=4" height="100px" width="100px" >
+  <img align="right" src="https://i1.wp.com/www.almeidatecno.com/wp-content/uploads/2019/03/Abrir-a-mente.gif?fit=750%2C750" height="100px" width="130px" >
 </div>
 
   ##
