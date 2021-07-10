@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/edinelson-lima/" target="_blank">
      <img align="left" src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png" height="30px" >
   </a>
-  <a href="https://wa.me/+5586994116357" target="_blank">
+  <a href="https://wa.me/+5599985092388" target="_blank">
    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" height="30px" >
   </a>
   <a href="https://app.rocketseat.com.br/me/edinelsonslima" target="_blank">
