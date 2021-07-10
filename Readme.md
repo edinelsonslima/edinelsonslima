@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo ao meu GitHub
  <div>
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=edinelsonslima&show_icons=true&theme=merko"/>
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinelsonslima&layout=compact&theme=merko"/>
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinelsonslima&layout=compact&theme=merko&langs_count=20"/>
 </div>
 
 <div style="display: inline_block"><br>
