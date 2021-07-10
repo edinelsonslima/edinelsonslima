@@ -20,7 +20,7 @@
    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" height="30px" >
   </a>
   <a href="https://app.rocketseat.com.br/me/edinelsonslima" target="_blank">
-   <img align="left" src="https://i.ytimg.com/an/SfwM5u0Kce6Cce8_S72olg/featured_channel.jpg?v=5f3c24e8" height="30px" >
+   <img align="left" src="https://cdn.discordapp.com/attachments/587480876536037386/863454931485720586/rocketseatCut.png" height="30px" >
   </a>
   <a href="https://www.instagram.com/edinelsonslima/" target="_blank">
    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" height="30px" >
