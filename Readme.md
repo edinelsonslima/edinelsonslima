@@ -37,9 +37,11 @@
  
  ## O que você vai encontrar por aqui?
   - Muito código, projetos e alguns rascunhos antigos, mas fique a vontade para explorar tudo, sempre tento manter os repositórios organizados com uma experiência dinâmica neles.
- <br>
+ 
  
  **Info!**
+ <img align="right" height="200" src="https://99cores.com/wp-content/uploads/2018/10/desenvolvimento-web.gif"/>
+
  #### Os repositórios:
  * [Cod3r-Cursos](https://github.com/edinelsonslima/Cod3r-Cursos)
  * [Curso-em-Video](https://github.com/edinelsonslima/curso-em-video)
