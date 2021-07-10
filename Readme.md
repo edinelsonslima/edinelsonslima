@@ -28,15 +28,30 @@
    <img align="right" alt="Edinelson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="right" alt="Edinelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="right" alt="Edinelson-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- </div>
   <br>
   
- ##
-    
+  ##
+ 
+ ## O que você vai encontrar por aqui?
+  - Muito código, projetos e alguns rascunhos antigos, mas fique a vontade para explorar tudo, sempre tento manter os repositórios organizados com uma experiência dinâmica neles.
+ <br>
+ 
+ **Info!!**
+ #### Os repositórios:
+ * [Cod3r-Cursos](https://github.com/edinelsonslima/Cod3r-Cursos)
+ * [Curso-em-Video](https://github.com/edinelsonslima/curso-em-video)
+ * [NLW](https://github.com/edinelsonslima/NLW)
+ 
+ São repositórios destinados a cursos que faço ou videos aulas de youtube nas respectivas plataformas de ensino
+ 
+  ##
+  <br>
+</div>
+
 <div align="center"> 
  
   ![Snake animation](https://github.com/edinelsonslima/edinelsonslima/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+<hr>
 
-##
-  <img align="left" src="https://i1.wp.com/www.almeidatecno.com/wp-content/uploads/2019/03/Abrir-a-mente.gif?fit=750%2C750" height="100px" width="130px" >
