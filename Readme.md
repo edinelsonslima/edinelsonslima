@@ -45,7 +45,7 @@
  **Info!**
  <img align="right" height="200" src="https://99cores.com/wp-content/uploads/2018/10/desenvolvimento-web.gif"/>
 
- #### Os repositórios:
+ **Os repositórios:**
  * [Cod3r-Cursos](https://github.com/edinelsonslima/Cod3r-Cursos)
  * [Curso-em-Video](https://github.com/edinelsonslima/curso-em-video)
  * [NLW](https://github.com/edinelsonslima/NLW)
