@@ -1,0 +1,264 @@
+@import '../../css/all.css';
+.about {
+    scroll-behavior: smooth;
+}
+
+:target {
+    scroll-margin-top: .01px;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    width: 100%;
+    height: 100%;
+    padding: 40px 15px;
+    color: #fff;
+    background: #ffffffd5;
+    overflow-y: scroll;
+    margin-bottom: 60px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    color: #000;
+    text-align: center;
+}
+
+.text {
+    max-width: 650px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.info h1 {
+    font-size: 3rem;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.info h1::before {
+    position: absolute;
+    bottom: 0;
+    content: "";
+    width: 70px;
+    height: 3px;
+    background: var(--corPrimary)
+}
+
+.info p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    font-size: 1.2rem;
+    text-align: justify;
+    text-indent: 25px;
+}
+
+.contato {
+    max-width: 650px;
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.contato h2 {
+    font-size: 2rem;
+}
+
+.icones-sociais {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.icones-sociais a {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    position: relative;
+}
+
+.icones-sociais a::after {
+    position: absolute;
+    content: "";
+    width: 40px;
+    height: 5px;
+    background: var(--corPrimaryOpacity);
+    bottom: -10px;
+    border-radius: 50px 1px 50px 1px;
+    filter: blur(2px);
+}
+
+.icones-sociais a i {
+    font-size: 3rem;
+    color: var(--corPrimary);
+}
+
+.icones-sociais a i:hover {
+    animation: shake-vertical 5s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+}
+
+.contato a {
+    text-decoration: none;
+    font-size: .9rem;
+    color: #000;
+}
+
+.contato a i#arrow-mensagem {
+    margin-left: 10px;
+    font-size: 1.1rem;
+    color: var(--corPrimary);
+}
+
+.info-github {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    max-width: 650px;
+    width: 100%;
+    color: #000;
+    margin-top: 70px;
+}
+
+.info-github h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.info-github h2 i {
+    font-size: 2.5rem;
+    margin-left: 7px;
+}
+
+.github-stats, .languages {
+    max-height: 400px;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    border-radius: 10px;
+    border: 3px solid var(--corPrimary);
+}
+
+.github-stats img, .languages img {
+    width: 100%;
+    height: 100%;
+}
+
+.snake-github {
+    max-width: 650px;
+    border-radius: 10px;
+    border: 3px solid var(--corPrimary);
+    background: var(--corPrimaryOpacity);
+}
+
+.snake-github img {
+    width: 100%;
+    height: 100%;
+}
+
+#mensagem {
+    display: flex;
+    flex-direction: column;
+    max-width: 650px;
+    width: 100%;
+    margin-top: 70px;
+    display: flex;
+    color: #000;
+}
+
+#mensagem h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 50px;
+}
+
+form {
+    width: 100%;
+    margin: auto;
+    text-align: left;
+}
+
+form input.dados {
+    width: 100%;
+    height: 30px;
+    padding: 20px 0 10px 0;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid var(--corPrimary);
+    background: transparent;
+    outline: none;
+}
+
+form input.dados::placeholder {
+    color: #8D8D8D;
+    font-size: 1.2rem;
+}
+
+form textarea#menssagem {
+    width: 100%;
+    height: 180px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--corPrimary);
+    outline: none;
+    resize: vertical;
+}
+
+input#submit {
+    margin-top: 20px;
+    max-width: 200px;
+    width: 100%;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+    background: var(--corPrimary);
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+input#submit:hover {
+    transform: scale(1.1);
+}
+
+input#submit:active {
+    transform: translateY(-5px);
+}
+
+form small {
+    color: #6d6d6d;
+    margin-left: 5px;
+}
+
+@media screen and (max-width:1359px) {
+    .text {
+        margin-top: 0;
+    }
+}
+
+@keyframes shake-vertical {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    10%, 30%, 50%, 70% {
+        transform: translateY(-8px);
+    }
+    20%, 40%, 60% {
+        transform: translateY(8px);
+    }
+    80% {
+        transform: translateY(6.4px);
+    }
+    90% {
+        transform: translateY(-6.4px);
+    }
+}
