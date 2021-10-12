@@ -1,0 +1,41 @@
+@import '../../css/all.css';
+
+div#skills{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+h1.title-skill{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img.icon{
+    height: 70px;
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.337));
+}
+
+img.icon:hover{
+    transform: scale(1.1)
+}
+
+div.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin: 20px;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding: 20px;
+    background: #ffffffd5;
+}
+
+div.icon-content{
+    display: flex;
+    gap: 20px;
+}
