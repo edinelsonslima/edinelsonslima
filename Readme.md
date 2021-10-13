@@ -25,13 +25,14 @@
   <a href="https://www.instagram.com/edinelsonslima/" target="_blank">
    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" height="30px" >
   </a>
-
-   <img align="right" alt="Edinelson-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
    <img align="right" alt="Edinelson-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="right" alt="Edinelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Edinelson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="right" alt="Edinelson-NodeJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <br>
+   <img align="right" alt="Edinelson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="right" alt="Edinelson-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="right" alt="Edinelson-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
+ <br>
   
   <hr>
  <br>
