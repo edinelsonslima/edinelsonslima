@@ -41,8 +41,8 @@
 ## Informações gráficas.
  
  <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=edinelsonslima&show_icons=true&bg_color=22272E&icon_color=ADBAC7&title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinelsonslima&layout=compact&langs_count=20&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edinelsonslima&show_icons=true&bg_color=22272E&icon_color=ADBAC7&title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinelsonslima&layout=compact&langs_count=20&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
 </div>
 
 #
