@@ -46,11 +46,5 @@
 </div>
 
 #
-
-<div>
-  <img height="400em" src="https://activity-graph.herokuapp.com/graph?username=edinelsonslima&theme=github&bg_color=22272E&hide_border=false"/> 
- 
-<!--   ![Snake animation](https://github.com/edinelsonslima/edinelsonslima/blob/output/github-contribution-grid-snake.svg) -->
-</div>
   
 <hr>
