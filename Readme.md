@@ -6,8 +6,13 @@
 <div>
   <img align="right" height="200" src="https://criadoresdesite.com.br/img/criacao_site_institucional.gif"/>
  
-  - Muito código, projetos e alguns rascunhos antigos, mas fique a vontade para explorar tudo, sempre tento manter os repositórios organizados com uma experiência dinâmica neles.
+  Muito código, projetos e alguns rascunhos antigos, mas fique a vontade para explorar tudo, sempre tento manter os repositórios organizados com uma experiência dinâmica neles.
 </div>
+
+#
+#
+#
+#
   
 <div width='100em'>
  <a href="https://www.linkedin.com/in/edinelson-lima/" target="_blank">
