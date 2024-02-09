@@ -2,21 +2,13 @@
 <h1 align="center">Olá! Bem-vindo ao meu GitHub</h1>
  
  ## O que você vai encontrar por aqui?
+
+<div>
+  <img align="right" height="200" src="https://criadoresdesite.com.br/img/criacao_site_institucional.gif"/>
+ 
   - Muito código, projetos e alguns rascunhos antigos, mas fique a vontade para explorar tudo, sempre tento manter os repositórios organizados com uma experiência dinâmica neles.
-
- **Info!**
- <img align="right" height="200" src="https://99cores.com/wp-content/uploads/2018/10/desenvolvimento-web.gif"/>
-
- **Os repositórios:**
- * [Cod3r-Cursos](https://github.com/edinelsonslima/Cod3r-Cursos)
- * [Curso-em-Video](https://github.com/edinelsonslima/curso-em-video)
- * [NLW](https://github.com/edinelsonslima/NLW)
- 
- São repositórios destinados a cursos ou videos aulas de youtube que eu acompanho nas respectivas plataformas de ensino
 </div>
-
- #
- 
+  
 <div width='100em'>
  <a href="https://www.linkedin.com/in/edinelson-lima/" target="_blank">
     <img align="left" src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png" height="30px" >
@@ -46,5 +38,9 @@
 </div>
 
 #
+
+## Troféus
   
-<hr>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=edinelsonslima&margin-w=4&margin-h=4" />
+</div>
