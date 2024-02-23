@@ -19,7 +19,7 @@
     <img align="left" src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png" height="30px" >
  </a>
  <a href="https://app.rocketseat.com.br/me/edinelsonslima" target="_blank">
-  <img align="left" src="https://cdn.discordapp.com/attachments/587480876536037386/863454931485720586/rocketseatCut.png" height="30px" >
+  <img align="left" src="https://blog.rocketseat.com.br/content/images/2023/12/logo2.png" height="30px" >
  </a>
 </div>
 
